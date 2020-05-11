@@ -14,8 +14,6 @@ import org.junit.runners.Suite;
         {
                 CSVToTradeInputDataAdaptorTest.class,
                 MaturityDateRuleTest.class,
-                DataStoreRulesTest.class,
-                VersionRuleTest.class,
                 TradeInputDataTest.class
 
         }
